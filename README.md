@@ -10,7 +10,7 @@ MORE...<br/>
 系统->Linux/Unix/Ubuntu发行版<br/>
 C++库依赖->Rxtx <br/>
 运行环境->Java_jre-1.5以上<br/>
-后期合成依赖->avconv 文档:<br/>
+后期合成依赖->avconv 文档:https://libav.org/avconv.html<br/>
 #####################################<br/>
 
 突然来的灵感，就花了一点时间实现了一下，开放源代码提供参考。<br/>
